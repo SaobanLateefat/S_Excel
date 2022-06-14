@@ -3,7 +3,7 @@ Solving Questions using excel functions.
 
 QUESTIONS
 
-#Question 1
+# Question 1
 
 Using Sales Data 1
 
@@ -21,7 +21,7 @@ Using Sales Data 1
 ---
 
 
-#Question 2
+# Question 2
 
 Use dataset 1 for the following:
 
@@ -41,7 +41,7 @@ b) What is the average sales for the top 20 lowest Sales?
 
 ---
 
-#Question 3
+# Question 3
 
 Use dataset 2 for the following:
 

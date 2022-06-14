@@ -3,7 +3,7 @@ Solving Questions using excel functions.
 
 QUESTIONS
 
-Question 1
+#Question 1
 
 Using Sales Data 1
 
@@ -18,10 +18,10 @@ Using Sales Data 1
 5. Find the total sales for each of the Ship modes
 
 6. Find the average sales for each of the Regions
+---
 
 
-
-Question 2
+#Question 2
 
 Use dataset 1 for the following:
 
@@ -39,9 +39,9 @@ a) Generate top 20 lowest Sales, then use VLOOKUP to generate their respective i
 
 b) What is the average sales for the top 20 lowest Sales?
 
+---
 
-
-Question 3
+#Question 3
 
 Use dataset 2 for the following:
 
